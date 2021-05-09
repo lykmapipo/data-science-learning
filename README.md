@@ -22,6 +22,9 @@
 ## Usage
 > TODO
 
+## Directory Structure
+> TODO
+
 ## Contribute
 
 It will be nice, if you open an issue first so that we can know what is going on, then, fork this repo and push in your ideas. Do not forget to add a bit of test(s) of what value you adding.
@@ -35,6 +38,7 @@ It will be nice, if you open an issue first so that we can know what is going on
 - Learn Data Science - Infographic. (2016). DataCamp. https://www.datacamp.com/community/tutorials/learn-data-science-infographic
 
 ### Github
+- Data Science Cookiecutter. (2021). Github. https://drivendata.github.io/cookiecutter-data-science/
 - MrMimic. (2021). Data Scientist Roadmap. GitHub. https://github.com/MrMimic/data-scientist-roadmap
 - Academic. (2021). Awesome Data Science. GitHub. https://github.com/academic/awesome-datascience
 - Tirthajyoti. (2021). Data Science Best Resources. GitHub. https://github.com/tirthajyoti/Data-science-best-resources
