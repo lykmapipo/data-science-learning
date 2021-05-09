@@ -10,6 +10,14 @@
 - marlesson. (2021). List of Competition Platforms. GitHub. https://github.com/marlesson/list_of_ml_competitions
 - ashishpatel26. (2021). 500-AI-ML-DL-CV-NLP-Projects. GitHub. https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 - Kharwal, A. (2020, December 11). 20 Machine Learning Projects for Portfolio - Aman Kharwal. Medium. https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
+- Kharwal, A. (2021, January 16). Best Data Science Projects for Resume. Data Science. https://thecleverprogrammer.com/2021/01/16/best-data-science-projects-for-resume/
+- Kharwal, A. (2021, January 19). Machine Learning Projects for Resume. Data Science. https://thecleverprogrammer.com/2021/01/19/machine-learning-projects-for-resume/
+- Kharwal, A. (2021, April 30). Machine Learning Projects. Data Science. https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+- Kharwal, A. (2020, November 22). Deep Learning Projects with Python. Data Science. https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/
+- Kharwal, A. (2020, November 23). Recommendation System Projects with Python. Data Science. https://thecleverprogrammer.com/2020/11/23/recommendation-system-projects-with-python/
+- Kharwal, A. (2020, November 25). Sentiment Analysis Projects with Python. Data Science. https://thecleverprogrammer.com/2020/11/25/sentiment-analysis-projects-with-python/
+- Kharwal, A. (2020, November 27). Regression Projects with Python. Data Science. https://thecleverprogrammer.com/2020/11/27/regression-projects-with-python/
+- 
 - ShuaiW. (2021). Kaggle Regression. GitHub. https://github.com/ShuaiW/kaggle-regression
 - ShuaiW. (2021). Kaggle Classification. GitHub. https://github.com/ShuaiW/kaggle-classification
 - ShuaiW. (2021). Kaggle Image. GitHub. https://github.com/ShuaiW/kaggle-image

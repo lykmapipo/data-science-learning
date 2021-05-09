@@ -20,6 +20,7 @@ ipython = "*"
 statsmodels = "*"
 seaborn = "*"
 librosa = "*"
+streamlit = "*"
 
 [dev-packages]
 
