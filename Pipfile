@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+torchtext = "*"
+jupyter = "*"
+tensorflow = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+scikit-image = "*"
+pillow = "*"
+ipython = "*"
+statsmodels = "*"
+seaborn = "*"
+librosa = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
