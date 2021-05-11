@@ -21,6 +21,7 @@ statsmodels = "*"
 seaborn = "*"
 librosa = "*"
 streamlit = "*"
+dowhy = "*"
 
 [dev-packages]
 
