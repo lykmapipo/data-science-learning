@@ -76,10 +76,6 @@ $ IRkernel::installspec(user = FALSE)
 - Git clone this repository
 ```sh
 $ git clone git@github.com:lykmapipo/data-science-learning.git
-```
-
-- Make `data-science-learning` your current working directory
-```sh
 $ cd data-science-learning
 ```
 
