@@ -31,6 +31,28 @@ $ curl https://pyenv.run | bash
 $ pyenv install -v 3.8.0
 ```
 
+### Install Julia
+
+- Install [juliavm](https://github.com/pmargreff/juliavm)
+```sh
+$ git clone https://github.com/pmargreff/juliavm
+$ cd juliavm
+$ chmod u+x install.sh
+$ ./install.sh
+```
+
+- Install julia
+```sh
+juliavm install 1.6.1
+```
+
+- Link julia with jupyter notebook
+```sh
+$ julia
+$ press ]
+$ add IJulia
+```
+
 ## Contribute
 
 It will be nice, if you open an issue first so that we can know what is going on, then, fork this repo and push in your ideas. Do not forget to add a bit of test(s) of what value you adding.
