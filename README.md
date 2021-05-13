@@ -54,6 +54,23 @@ $ press ]
 $ add IJulia
 ```
 
+### Install R
+
+- Install R in Ubuntu 18
+```sh
+$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+$ sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran40/'
+$ sudo apt update
+$ sudo apt install r-base
+```
+
+- Link R with jupyter notebook
+```sh
+$ sudo -i R
+$ install.packages('IRkernel')
+$ IRkernel::installspec(user = FALSE)
+```
+
 ## Contribute
 
 It will be nice, if you open an issue first so that we can know what is going on, then, fork this repo and push in your ideas. Do not forget to add a bit of test(s) of what value you adding.
