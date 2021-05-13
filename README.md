@@ -79,29 +79,21 @@ $ git clone git@github.com:lykmapipo/data-science-learning.git
 $ cd data-science-learning
 ```
 
-- Ensure python version
+- Use `python`
 ```sh
 $ pyenv local 3.8.0
-```
-
-- Upgrade `pip`
-```sh
 $ pip install --upgrade pip
-```
-
-- Install [pipenv](https://github.com/pypa/pipenv)
-```sh
 $ pip install pipenv
-```
-
-- Initialize pipenv
-```sh
 $ pipenv shell # Type 'exit' or 'Ctrl+D' to return.
+$ pipenv install
 ```
 
-- Install python packanges
+- Use `julia` by open new terminal and run
 ```sh
-$ pipenv install
+$ julia
+$ ]
+$ activate .
+$ instantiate
 ```
 
 - Open jupyter notebook
