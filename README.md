@@ -108,7 +108,7 @@ $ pipenv shell # Type 'exit' or 'Ctrl+D' to return.
 $ pipenv install
 ```
 
-- Launch jupyter notebook
+- Open jupyter notebook
 ```sh
 $ jupyter notebook
 ```
