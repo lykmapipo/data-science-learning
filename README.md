@@ -13,9 +13,10 @@
 
 ## Requirements
 
-- [Ubuntu 18+](https://ubuntu.com/)
-- [Julia v1.6.1+](https://github.com/JuliaLang/julia)
-- [Python v3.8.0+](https://github.com/python/cpython)
+- [Ubuntu v18+](https://ubuntu.com/)
+- [Julia v1.6.1+](https://julialang.org/)
+- [Python v3.8.0+](https://www.python.org/)
+- [R v4.0.5+](https://www.r-project.org/)
 
 ## Installation
 
