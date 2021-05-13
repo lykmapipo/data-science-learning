@@ -64,6 +64,13 @@ $ sudo apt update
 $ sudo apt install r-base
 ```
 
+- Install [renv](https://rstudio.github.io/renv/)
+```sh
+$ sudo -i R
+$ install.packages("remotes")
+$ remotes::install_github("rstudio/renv")
+```
+
 - Link R with jupyter notebook
 ```sh
 $ sudo -i R
@@ -94,6 +101,11 @@ $ julia
 $ ]
 $ activate .
 $ instantiate
+```
+
+- Use `R` by open new terminal and run
+```sh
+$ renv::restore()
 ```
 
 - Open jupyter notebook
