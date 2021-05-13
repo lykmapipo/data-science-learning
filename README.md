@@ -13,14 +13,23 @@
 
 ## Requirements
 
+- [Ubuntu 18+](https://ubuntu.com/)
 - [Julia v1.6.1+](https://github.com/JuliaLang/julia)
 - [Python v3.8.0+](https://github.com/python/cpython)
 
 ## Installation
-> TODO
 
-## Usage
-> TODO
+### Python
+
+- Install [pyenv](https://github.com/pyenv/pyenv) using [pyenv-installer](https://github.com/pyenv/pyenv-installer)
+```sh
+$ curl https://pyenv.run | bash
+```
+
+- Install python
+```sh
+$ pyenv install -v 3.8.0
+```
 
 ## Contribute
 
