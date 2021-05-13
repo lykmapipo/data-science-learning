@@ -20,7 +20,7 @@
 
 ## Installation
 
-### Python
+### Install Python
 
 - Install [pyenv](https://github.com/pyenv/pyenv) using [pyenv-installer](https://github.com/pyenv/pyenv-installer)
 ```sh
@@ -69,6 +69,48 @@ $ sudo apt install r-base
 $ sudo -i R
 $ install.packages('IRkernel')
 $ IRkernel::installspec(user = FALSE)
+```
+
+## Usage
+
+- Git clone this repository
+```sh
+$ git clone git@github.com:lykmapipo/data-science-learning.git
+```
+
+- Make `data-science-learning` your current working directory
+```sh
+$ cd data-science-learning
+```
+
+- Ensure python version
+```sh
+$ pyenv local 3.8.0
+```
+
+- Upgrade `pip`
+```sh
+$ pip install --upgrade pip
+```
+
+- Install [pipenv](https://github.com/pypa/pipenv)
+```sh
+$ pip install pipenv
+```
+
+- Initialize pipenv
+```sh
+$ pipenv shell # Type 'exit' or 'Ctrl+D' to return.
+```
+
+- Install python packanges
+```sh
+$ pipenv install
+```
+
+- Launch jupyter notebook
+```sh
+$ jupyter notebook
 ```
 
 ## Contribute
