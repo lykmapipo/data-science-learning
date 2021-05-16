@@ -44,6 +44,9 @@
 
 ## Field
 
+## Statistics
+- Simple Learning Pro. (2015). Statistics 1. YouTube. https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR
+
 ### Automatic Speech Recognition
 - jim-schwoebel. (2021). Voice Datasets. GitHub. https://github.com/jim-schwoebel/voice_datasets
 - soerenab. (2021). AudioMNIST. GitHub. https://github.com/soerenab/AudioMNIST
