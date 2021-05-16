@@ -4,9 +4,11 @@ using DataFrames
 using Distributions
 using Flux
 using Gadfly
+using HypothesisTests
 using Omega
 using Plots
 using RDatasets
+using StatsBase
 using StatsPlots
 using Turing
 using UnicodePlots
