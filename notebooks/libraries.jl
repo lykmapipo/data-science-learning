@@ -4,8 +4,9 @@ using DataFrames
 using Distributions
 using Flux
 using Gadfly
-# using IJulia
 using Omega
 using Plots
 using RDatasets
+using StatsPlots
 using Turing
+using UnicodePlots
