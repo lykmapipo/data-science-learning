@@ -6,6 +6,7 @@ using Flux
 using Gadfly
 using HypothesisTests
 using Omega
+using PlotlyJS
 using Plots
 using RDatasets
 using StatsBase
