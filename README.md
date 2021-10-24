@@ -1,4 +1,4 @@
-# Data Science Learning (WIP)
+# Data Science Learning
 
 ![GitHub](https://img.shields.io/github/license/lykmapipo/data-science-learning)
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
@@ -86,7 +86,7 @@ $ git clone git@github.com:lykmapipo/data-science-learning.git
 $ cd data-science-learning
 ```
 
-- Use `python`
+- Use `python` by open new terminal and run
 ```sh
 $ pyenv local 3.8.0
 $ pip install --upgrade pip
@@ -110,7 +110,7 @@ $ renv::restore()
 
 - Open jupyter notebook
 ```sh
-$ jupyter notebook
+$ PYTHONHASHSEED=0 jupyter notebook
 ```
 
 ## Contribute
