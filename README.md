@@ -108,9 +108,13 @@ $ instantiate
 $ renv::restore()
 ```
 
-- Open jupyter notebook
+- Open jupyter notebooks
 ```sh
-$ PYTHONHASHSEED=0 jupyter notebook
+$ PYTHONHASHSEED=0 jupyter-lab
+```
+or
+```sh
+$ CUDA_VISIBLE_DEVICES="" PYTHONHASHSEED=0 jupyter-lab
 ```
 
 ## Contribute

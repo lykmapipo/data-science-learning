@@ -4,25 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-torch = "*"
-torchvision = "*"
-torchaudio = "*"
-torchtext = "*"
-jupyter = "*"
-tensorflow = "*"
+ipython = "*"
+scipy = "*"
 numpy = "*"
 matplotlib = "*"
+pillow = "*"
+jupyterlab = "*"
+seaborn = "*"
 pandas = "*"
+statsmodels = "*"
 scikit-learn = "*"
 scikit-image = "*"
-pillow = "*"
-ipython = "*"
-statsmodels = "*"
-seaborn = "*"
 librosa = "*"
 streamlit = "*"
-dowhy = "*"
-rise = "*"
+tensorflow = "*"
 
 [dev-packages]
 
